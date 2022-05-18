@@ -1,6 +1,6 @@
 Assignment 
 
-Task 1 : 
+## Task 1 : 
 
 Considered following assumption and provided the solution accordingly
 Assumption: 
@@ -12,7 +12,7 @@ Horizontal Scaling is normally used for read heavy operations. Vertical Scaling 
 5.	File is in uncompressed format. 
 
 
-Task 2 
+## Task 2 
 We had a similar situation where we had to compare internal and external data for given customer and merge some of the columns.
 The first step is to ensure that the Account Name is matching. In order to ensure it is matching there were couple of additional columns used for Country / State / City / Postal Code / Latitude / Longitude
 
